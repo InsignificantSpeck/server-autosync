@@ -1,4 +1,4 @@
-#/bin
+/bin
 ---
 
 This is where the server autosync
