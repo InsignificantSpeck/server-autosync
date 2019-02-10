@@ -5,3 +5,9 @@ cmake_install.cmake
 /bin/dsync
 
 /CMakeFiles
+
+/src/CMakeFiles
+
+/src/CMakeLists.txt
+
+/src/Makefile
